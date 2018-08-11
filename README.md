@@ -6,11 +6,11 @@
 
 **Summary**: I'm a UX designer. I started my career in higher education administration, pursuing my Master's Degree in digital media and design part-time while working full-time in Finance and HR. I'm a human-centered design and VR/AR enthusiast, and have written and spoken about both topics at venues in Seattle and New York. 
 
-##Work Experience
+## Work Experience
 
-####[McKinsey & Company](www.mckinsey.com) - New York, NY
+#### [McKinsey & Company](www.mckinsey.com) - New York, NY
 
-####Experience Design Intern - June 2018-Present
+#### Experience Design Intern - June 2018-Present
 
 - Spent 9 weeks at client site helping solve technical and organizational issues regarding customer data reporting 
 - Worked with developers and business analysts to synthesize research findings and  develop storytelling framework and tools incorporating new types of customer data and internal workflow processes
@@ -19,16 +19,16 @@
 **HIGHLIGHT**: Assisted with planning and facilitation of 4 day long concept sprint
 
 
-####[New York University](www.nyu.edu) - New York, NY
+#### [New York University](www.nyu.edu) - New York, NY
 
-####Financial Operations Assistant - Nov. 2016-May 2018
+#### Financial Operations Assistant - Nov. 2016-May 2018
 - Managed and administered 70+ budgets for faculty members at Gallatin School of Individualized Study
 - Led yearly onboarding process for all new PT and FT faculty members
 - Developed processes and documentation for onboarding and records management tasks
 
 **HIGHLIGHT**: Coordinated with multiple departments for yearly faculty search efforts
 
-####[New York University](www.nyu.edu) - New York, NY
+#### [New York University](www.nyu.edu) - New York, NY
 
 ####Human Resources Assistant - Apr. 2015-Nov. 2016
 
@@ -39,7 +39,7 @@
 
 **HIGHLIGHT**: Helped new and prospective NYU students navigate NYU daily while managing the Deans' floor front desk
 
-##[Public Speaking](https://www.lillianwarner.com/writing)
+## [Public Speaking](https://www.lillianwarner.com/writing)
 
 **Workshop**: "Designing for Mixed Reality." NYU MakerSpace, New York, NY. 2018. 
 
@@ -51,7 +51,7 @@
 
 **Presentation**: "Using HCD to Build Small Businesses." THiNK Conference, New York, NY. 2017. 
 
-##Education
+## Education
 
 
 **M.S., Integrated Digital Media**, New York University. 2018.
