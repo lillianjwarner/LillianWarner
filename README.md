@@ -30,7 +30,7 @@
 
 #### [New York University](www.nyu.edu) - New York, NY
 
-####Human Resources Assistant - Apr. 2015-Nov. 2016
+#### Human Resources Assistant - Apr. 2015-Nov. 2016
 
 - Managed onboarding process for all new PT and FT faculty members at Gallatin School of Individualized Study
 - Liaised with Central HR to develop new Workday capabilities for Gallatin; trained new employees on essential Workday functions
