@@ -4,8 +4,6 @@
 
 [ljw269@nyu.edu](ljw269@nyu.edu)  / (206)-419-1991 / [www.lillianwarner.com](https://www.lillianwarner.com/)
 
-**Summary**: I'm a UX designer. I started my career in higher education administration, pursuing my Master's Degree in digital media and design part-time while working full-time in Finance and HR. I'm a human-centered design and VR/AR enthusiast, and have written and spoken about both topics at venues in Seattle and New York. 
-
 ## Work Experience
 
 #### [McKinsey & Company](www.mckinsey.com) - New York, NY
